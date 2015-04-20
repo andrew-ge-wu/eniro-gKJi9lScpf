@@ -1,0 +1,48 @@
+{
+  "title": "Gula sidorna API",
+  "query": "http://api.eniro.com/cs/search/basic?country=se&search_word=pizza&version=1.1.3",
+  "totalHits": 3124,
+  "totalCount": 3124,
+  "startIndex": 1,
+  "itemsPerPage": 25,
+  "adverts": [
+    {
+      "eniroId": "14957465",
+      "companyInfo": {
+        "companyName": "Primo Ciao Ciao",
+        "orgNumber": "5565855854",
+        "companyText": "På Primo Ciao Ciao Odengatan erbjuder vi en genuin italiensk a la carte meny så väl som vedeldade..."
+      },
+      "address": {
+        "streetName": "Odeng. 79 -81",
+        "postCode": "113 22",
+        "postArea": "STOCKHOLM",
+        "postBox": null
+      },
+      "location": {
+        "coordinates": [
+          {
+            "longitude": 18.04867730,
+            "latitude": 59.34215850
+          },
+          {
+            "use": "route",
+            "longitude": 18.04867730,
+            "latitude": 59.34215850
+          }
+        ]
+      },
+      "phoneNumbers": [
+        {
+          "type": "std",
+          "phoneNumber": "08 - 32 01 22",
+          "label": null
+        }
+      ],
+      "companyReviews": "http://www.rejta.se/omdome/512188/pizza",
+      "homepage": "http://api.eniro.com/proxy/homepage/hiOpQG8hntwagoGiccUkjRK85Vs_YvdgpCRmJfV3hxkB4-lyI_hQwps9QoPU29faRqYOKIlFUHR02Cb7QLIQmqWnW_7tHKYtuMUVA6gbAEU-2Br155LwS9jt5UUYJ5GicromNOvUKyo=",
+      "facebook": null,
+      "infoPageLink": "http://gulasidorna.eniro.se/f/primo-ciao-ciao:14957465?search_word=pizza"
+    }
+  ]
+}

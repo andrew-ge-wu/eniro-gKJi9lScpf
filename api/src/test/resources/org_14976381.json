@@ -1,0 +1,48 @@
+{
+  "title": "Gula sidorna API",
+  "query": "http://api.eniro.com/cs/search/basic?country=se&eniro_id=14976381&version=1.1.3",
+  "totalHits": 1,
+  "totalCount": 1,
+  "startIndex": 1,
+  "itemsPerPage": 1,
+  "adverts": [
+    {
+      "eniroId": "14976381",
+      "companyInfo": {
+        "companyName": "Cyrano - Vasa",
+        "orgNumber": "9696532366",
+        "companyText": null
+      },
+      "address": {
+        "streetName": "Viktoriag. 26",
+        "postCode": "411 25",
+        "postArea": "GÖTEBORG",
+        "postBox": null
+      },
+      "location": {
+        "coordinates": [
+          {
+            "longitude": 11.96643040,
+            "latitude": 57.69683260
+          },
+          {
+            "use": "route",
+            "longitude": 11.96643040,
+            "latitude": 57.69683260
+          }
+        ]
+      },
+      "phoneNumbers": [
+        {
+          "type": "std",
+          "phoneNumber": "031 - 13 29 00",
+          "label": null
+        }
+      ],
+      "companyReviews": "http://www.rejta.se/omdome/650516/",
+      "homepage": "http://api.eniro.com/proxy/homepage/uANwPf5aVK2gd0CINBCf9EnSC8HHvuaywYATrY2A3a8L6KpYEPnKtltD2vMV_VUCV4oKYTQbJ4k=",
+      "facebook": "http://api.eniro.com/proxy/facebook/uANwPf5aVK0LtaJV5UvWtwh_l-Zl6Ad_nTMhD6ulaKAuGcXnA5WBWsQ5sWXjI5FezMpFEFJTuX4_-S8R30eXOjzkvmS48-546rK1h5hVe-U=",
+      "infoPageLink": "http://gulasidorna.eniro.se/f/cyrano-vasa:14976381?search_word="
+    }
+  ]
+}
